@@ -6,6 +6,7 @@ de solidificar conceitos aprendidos no flutter foi possível trabalhar técnicas
 - Gerenciamento de Estado
 - HooksRiverpod
 - Conceitos de SOLID
+- Criação de filtro de pesquisa
 
 <img src="https://github.com/julialuciani/api_rick_and_morty/assets/113135536/bab49f27-9201-4685-946c-56a8f5998f9e" width = "250">
 <img src="https://github.com/julialuciani/api_rick_and_morty/assets/113135536/6967eaba-1774-48c8-82ea-5ea3d1a445e9" width = "250">
